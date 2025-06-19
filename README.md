@@ -1,5 +1,7 @@
 # AI Learning Network for the Assessment of Lung Inflammation 
 
+Submitted for publication.
+
 Densely Connected Convolutional Networks, DenseNet (1), was employed for image analysis and development of the learning model. DenseNet, which combines any layer to all subsequent layers (such that the output layer receives inputs from the features of all previous levels), is composed of convolutional layers, pooling, batch normalization, activation function, transition layers, dense blocks, and a classification layer. 
 Hematoxylin and eosin (H&E) stained slides (scanned at 40x) were manually annotated by a pulmonary pathologist for two classes. The first class was inflammation, and the second class was background (no inflammatory cells). The algorithm was trained and evaluated for classification with a resolution value of 2 μm/pixel.
 The cross-entropy rates were 0.006 for 4480 +/- 80 iterations, and the DenseNet classification F1 scores were overall 0.920 (95% CI 0.915 – 0.925), inflammation 0.875 (95% CI 0.868 – 0.881) and background 0.965 (95% CI 0.969 – 0.962). 
