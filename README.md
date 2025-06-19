@@ -9,3 +9,6 @@ The cross-entropy rates were 0.006 for 4480 +/- 80 iterations, and the DenseNet 
 Reference:
 1.	Huang G., Liu Z., Van Der Maaten L., Weinberger K.Q. Densely connected convolutional networks. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. July 2017; pp. 4700–4708. 
 
+![R8-15_a](https://github.com/user-attachments/assets/d3e332ee-1afb-4208-a27e-34b0089e1baa)
+![R8-20_d](https://github.com/user-attachments/assets/ebc4c7ed-92f3-4526-96a4-970d3d30ba43)
+![R8-15_c - Copyb](https://github.com/user-attachments/assets/af840091-b072-4c2d-a225-7cd373c9941c)
