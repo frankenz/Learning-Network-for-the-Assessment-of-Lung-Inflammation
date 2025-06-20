@@ -1,4 +1,4 @@
-# AI Learning Network for the Assessment of Lung Inflammation 
+# Learning Network for the Assessment of Lung Inflammation 
 
 Submitted for publication.
 
