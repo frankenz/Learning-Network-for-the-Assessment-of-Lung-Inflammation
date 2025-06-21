@@ -1,6 +1,4 @@
-# Learning Network for the Assessment of Lung Inflammation 
-
-Submitted for publication.
+# Tissue Segmentation for the Assessment of Inflammation in Influenza Virus Infected Lungs
 
 Densely Connected Convolutional Networks, DenseNet (1), was employed for image analysis and development of the learning model. DenseNet, which combines any layer to all subsequent layers (such that the output layer receives inputs from the features of all previous levels), is composed of convolutional layers, pooling, batch normalization, activation function, transition layers, dense blocks, and a classification layer. 
 Hematoxylin and eosin (H&E) stained slides (scanned at 40x) were manually annotated by a pulmonary pathologist for two classes. The first class was inflammation, and the second class was background (no inflammatory cells). The algorithm was trained and evaluated for classification with a resolution value of 2 μm/pixel.
